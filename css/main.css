@@ -30,7 +30,7 @@ body {
   padding: 20px 0;
   width: 380px;
   height: 150px;
-  max-width: 80%;
+  max-width: 100%;
   background: gray;
   border-radius: 15px;
 }
