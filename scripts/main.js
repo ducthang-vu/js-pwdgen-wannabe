@@ -1,4 +1,4 @@
-/* A script promping user to enter name, surname and favourite colour, and returning a string: name + surname + color + '20' + random number from 0 to 99
+/* A script prompting user to enter name, surname and favourite colour, and returning a string: name + surname + color + '20' + random number from 0 to 99
 */
 
 console.log('main.js is working');
