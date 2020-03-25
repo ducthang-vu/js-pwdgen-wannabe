@@ -5,7 +5,7 @@ console.log('main.js script is working')
 
 var name = prompt("What's your name?")
 var surname = prompt("What's your surname?")
-var colour = prompt("What's favourite colou?")
+var colour = prompt("What's favourite colour?")
 
 console.log(name)
 console.log(surname)
